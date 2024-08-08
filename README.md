@@ -1,8 +1,7 @@
-<h1 align="center">Hello, I'm Muhtarom Ahkam</h1>
-<h3 align="center">I hold a degree in mathematics, and I really love learning about and exploring new things. At the moment, I am trying to get better insight of what cybersecurity entails by delving deeper into its issues.</h3>
+<h1 align="left">Hello, I'm Muhtarom Ahkam</h1>
+<h3 align="left">I hold a degree in mathematics, and I really love learning about and exploring new things. At the moment, I am trying to get better insight of what cybersecurity entails by delving deeper into its issues.</h3>
 
 - 🌱 I’m currently learning **Cloud Cybersecurity,**
-
 - 📫 How to reach me **muhtaromahkam0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
