@@ -8,4 +8,4 @@ I'd like to know many people around the word so lets be friend, Please don't be 
 
 My Linkedin profile [Linkedin](https://www.linkedin.com/in/muhtarom-ahkam/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhtaromahkam)](https://github.com/anuraghazra/github-readme-stats)
+[![Muhtarom Ahkam's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhtaromahkam)](https://github.com/anuraghazra/github-readme-stats)
