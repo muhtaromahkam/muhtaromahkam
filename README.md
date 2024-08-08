@@ -1,16 +1,15 @@
-<h4 align="left">Hello, I'm Muhtarom Ahkam</h4>
+<h3 align="left">Hello, I'm Muhtarom Ahkam</h3>
 <p align="left">I hold a degree in mathematics, and I really love learning about and exploring new things. At the moment, I am trying to get better insight of what cybersecurity entails by delving deeper into its issues.</p>
-
 - 🌱 I’m currently learning **Cloud Cybersecurity,**
 - 📫 How to reach me **muhtaromahkam0@gmail.com**
 
-<h4 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhtaromahkam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhtaromahkam" height="30" width="40" /></a>
 <a href="https://medium.com/muhtaromahkam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="muhtaromahkam" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="23" height="23"/>
